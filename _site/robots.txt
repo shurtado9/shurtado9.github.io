@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: http://eduardonavarroq.com/sitemap.xml
